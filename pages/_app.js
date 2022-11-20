@@ -1,7 +1,6 @@
 import "../styles/globals.css";
 import NextNProgress from "nextjs-progressbar";
 import Head from "next/head";
-import "animate.css/animate.min.css";
 
 function MyApp({ Component, pageProps }) {
   return (
