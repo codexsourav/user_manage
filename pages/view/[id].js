@@ -112,6 +112,7 @@ function View() {
               width={200}
               height={250}
               loading="lazy"
+              alt="user"
               className="imageprf"
             />
           </Link>
